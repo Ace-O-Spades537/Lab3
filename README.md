@@ -7,3 +7,5 @@ git add (filename) to add file from local to the Stage
 git commit (-m for message) to go from Stage to Head
 git push  from head to Remote Repository 
 This might cause a merge conflict 
+git push  from head to Remote Repository  
+Partner: Emma Montross
